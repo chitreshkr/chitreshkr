@@ -71,9 +71,10 @@
 </details>
 ```md
  [![Chitresh's github stats](https://github-readme-stats.vercel.app/api?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
- [Chitresh's github stats](https://github-readme-stats.vercel.app/api?username=chitreshkr&show_icons=true&theme=radical)
+ ```
+ [![Chitresh's github stats](https://github-readme-stats.vercel.app/api?username=chitreshkr&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
-```
+
 
 [twitter]: https://twitter.com/chitresh29
 [instagram]: https://instagram.com/chitreshkr

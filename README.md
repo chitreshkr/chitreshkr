@@ -1,4 +1,4 @@
-### Hi there, I am Chitresh [codeSTACKr][website] 👋
+### Hi there, I am Chitresh Kumar 👋
 
 
 ## I'm a Data Science graduate 

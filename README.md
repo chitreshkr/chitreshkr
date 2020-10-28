@@ -8,9 +8,6 @@
 - 🥅 Goals: Contribute to Open Source Data Science projects
 - ⚡ Fun fact: I love listening music and nature photography
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/dyscfgbgrzl24olmcl9nleo5g)
 
 ### Connect with me:
 

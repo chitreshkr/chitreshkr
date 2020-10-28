@@ -67,6 +67,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chitreshkr&show_icons=true&hide_border=true" />
+   [![Chitresh's github stats](https://github-readme-stats.vercel.app/api?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
+  [Chitresh's github stats](https://github-readme-stats.vercel.app/api?username=chitreshkr&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
 
 </details>
 

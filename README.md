@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything in Deep Learning,Natural Language Processing 
 - 👯 I’m looking to collaborate with other data enthusiasts
 - 🥅 Goals: Contribute to Open Source Data Science projects
-- ⚡ Fun fact: I love listening music and nature photography
+- ⚡ Fun fact: I love listening to music and nature photography
 
 
 ### Connect with me:

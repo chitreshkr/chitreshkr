@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="DataCamp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datacamp.svg" />
+<img align="left" alt="DataCamp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datacamp.svg" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" align="left" width="30px">
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Anaconda" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" />
@@ -32,7 +32,7 @@
 <img align="left" alt="Tableau" width="30px" src="https://simpleicons.org/icons/tableau.svg" />
 <img align="left" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
 <img align="left" alt="Tensorflow" width="30px" src="https://simpleicons.org/icons/tensorflow.svg" />
-<img align="left" alt="Stack Overflow" width="30px" src="https://simpleicons.org/icons/stackoverflow.svg" />]
+<img align="left" alt="Stack Overflow" width="30px" src="https://simpleicons.org/icons/stackoverflow.svg" />
 
 <br />
 <br />

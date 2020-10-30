@@ -1,7 +1,7 @@
 ### Hi there, I am Chitresh Kumar 👋
 
 
-## I'm a Data Science graduate 
+## I'm a Data Science graduate student at UTD
 
 - 🌱 I’m currently learning everything in Deep Learning,Natural Language Processing 
 - 👯 I’m looking to collaborate with other data enthusiasts

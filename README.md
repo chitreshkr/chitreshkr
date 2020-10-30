@@ -33,7 +33,6 @@
 <br />
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chitreshkr.chitreshkr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr&langs_count=8)](https://github.com/chitreshkr/github-readme-stats)
 
 <br />
 <br />

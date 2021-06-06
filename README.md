@@ -47,18 +47,6 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<--START_SECTION:activity-->
-
-<--END_SECTION:activity-->
-
-</details>
-
-
-
-
 <p align="center">
   <summary>:zap: GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr&theme=radical&hide_langs_below=1&layout=compact" />

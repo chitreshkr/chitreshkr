@@ -1,9 +1,9 @@
 ### Hi there, I am Chitresh Kumar 👋
 
 
-## I'm a Data Science graduate student at UTD
+## I'm working as Data Analyst for TCS
 
-- 🌱 I’m currently learning everything in Deep Learning,Natural Language Processing 
+- 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
 - 👯 I’m looking to collaborate with other data enthusiasts
 - 🥅 Goals: Contribute to Open Source Data Science projects
 - ⚡ Fun fact: I love listening to music and nature photography

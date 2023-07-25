@@ -38,20 +38,7 @@
 <br />
 
 
-### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chitreshkr.chitreshkr)
 
-<br />
-<br />
-
----
-
-
-<p align="center">
-  <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chitreshkr&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
 
 [twitter]: https://twitter.com/chitresh29
 [instagram]: https://instagram.com/chitreshkr

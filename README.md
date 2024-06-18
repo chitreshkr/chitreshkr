@@ -1,7 +1,7 @@
 ### Hi there, I am Chitresh Kumar 👋
 
 
-## I'm working as Data Analyst for TCS
+## I'm working as Data Analyst III for Pluralsight.
 
 - 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
 - 👯 I’m looking to collaborate with other data enthusiasts

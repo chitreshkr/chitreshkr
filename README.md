@@ -38,6 +38,13 @@
 <img align="left" alt="Tensorflow" width="30px" src="https://simpleicons.org/icons/tensorflow.svg" />
 <img align="left" alt="Stack Overflow" width="30px" src="https://simpleicons.org/icons/stackoverflow.svg" />
 
+
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="25" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
+<code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br />
 <br />
 

@@ -81,8 +81,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
 
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&cover_image=true&theme=compact&show_offline=false&background_color=0a0a0a&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&redirect=true)
 
 
-
-
-
+</div>

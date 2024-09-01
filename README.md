@@ -1,22 +1,29 @@
-## Hi there, I am Chitresh Kumar 👋
+
+<div align="left">
+    <h2>🚀 About Me</h2>
+    <p>
+    Hi there, I am Chitresh Kumar 👋
+    I'm working as Data Analyst III,Revenue Operations for Pluralsight.
+    <br>- 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
+    <br>- 👯 I’m looking to collaborate with other data enthusiasts
+    <br>- 🥅 Goals: Contribute to Open Source Data Science projects
+    <br>- ⚡ Fun fact: I love travelling,listening to music and nature photography
+    </p>
+</div>
 
 
-## I'm working as Data Analyst III for Pluralsight.
 
-- 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
-- 👯 I’m looking to collaborate with other data enthusiasts
-- 🥅 Goals: Contribute to Open Source Data Science projects
-- ⚡ Fun fact: I love listening to music and nature photography
 
 
 ### Connect with me:
+<div align='center'>
 
 [<img align="left" alt="Chitresh | Twitter" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" />][twitter]
  
 [<img align="left" alt="Chitresh | LinkedIn" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />][linkedin]
 
 [<img align="left" alt="Chitresh | Instagram" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" />][instagram]
-
+</div>
 <br />
 <br>
 ### Languages and Tools:
@@ -62,11 +69,17 @@
 
 
 ## My Stats
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitreshkr&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
+</div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
 
 
 

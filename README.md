@@ -1,4 +1,4 @@
-### Hi there, I am Chitresh Kumar 👋
+## Hi there, I am Chitresh Kumar 👋
 
 
 ## I'm working as Data Analyst III for Pluralsight.
@@ -11,13 +11,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chitresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chitresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chitresh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Chitresh | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ 
+[<img align="left" alt="Chitresh | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Chitresh | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br>
 ### Languages and Tools:
+<br>
+<br>
+
 
 <img align="left" alt="DataCamp" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datacamp.svg" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" align="left" width="30px">
@@ -39,6 +44,22 @@
 
 
 
+
 [twitter]: https://twitter.com/chitresh29
 [instagram]: https://instagram.com/chitreshkr
 [linkedin]: https://linkedin.com/in/chitreshkumar/
+<br>
+<br>
+
+## My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitreshkr&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
+
+
+
+
+
+
+

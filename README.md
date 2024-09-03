@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=chartreuse-dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=chartreuse-dark" alt="Chitresh's GitHub Stats"/>
 </div>
 
 <div align="center">

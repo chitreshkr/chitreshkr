@@ -82,10 +82,6 @@
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=chartreuse-dark" alt="Chitresh's GitHub Stats"/>
-</div>
-
-<div align="center">
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chitreshkr&theme=chartreuse-dark)](https://github.com/chitreshkr/github-readme-stats)

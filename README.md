@@ -71,19 +71,29 @@
 ## My Stats
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitreshkr&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitreshkr&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chitreshkr&show_icons=true&theme=chartreuse-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr)](https://github.com/chitreshkr/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitreshkr&layout=donut&theme=chartreuse-dark)](https://github.com/chitreshkr/github-readme-stats)
 </div>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chitreshkr&theme=chartreuse-dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
 
 <div align="center">
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chitreshkr&theme=chartreuse-dark)](https://github.com/chitreshkr/github-readme-stats)
+
+
+[![Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=chitreshkr&repo=Python-for-Data-Analysis&theme=chartreuse-dark)](https://github.com/chitreshkr/Python-for-Data-Analysis)
+
+[![Bank Marketing](https://github-readme-stats.vercel.app/api/pin/?username=chitreshkr&repo=Bank-Marketing-Classification-&theme=chartreuse-dark)](https://github.com/chitreshkr/Bank-Marketing-Classification-)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&cover_image=true&theme=compact&show_offline=false&background_color=0a0a0a&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&redirect=true)
-
-
 </div>

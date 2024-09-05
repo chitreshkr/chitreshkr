@@ -53,7 +53,6 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 <code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
 <br />

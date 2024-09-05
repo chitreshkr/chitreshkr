@@ -52,7 +52,6 @@
 <code><img height="25" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 <code><img height="25" src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 <br />
 <br />

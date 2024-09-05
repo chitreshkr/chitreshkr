@@ -91,5 +91,4 @@
 
 [![Bank Marketing](https://github-readme-stats.vercel.app/api/pin/?username=chitreshkr&repo=Bank-Marketing-Classification-&theme=chartreuse-dark)](https://github.com/chitreshkr/Bank-Marketing-Classification-)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&cover_image=true&theme=compact&show_offline=false&background_color=0a0a0a&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dyscfgbgrzl24olmcl9nleo5g&redirect=true)
 </div>

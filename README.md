@@ -3,7 +3,6 @@
     <h2>🚀 About Me</h2>
     <p>
     Hi there, I am Chitresh Kumar 👋
-    I'm working as Data Analyst III,Revenue Operations for Pluralsight.
     <br>- 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
     <br>- 👯 I’m looking to collaborate with other data enthusiasts
     <br>- 🥅 Goals: Contribute to Open Source Data Science projects

@@ -3,9 +3,7 @@
     <h2>🚀 About Me</h2>
     <p>
     Hi there, I am Chitresh Kumar 👋
-    <br>- 🌱 I’m open to learn new developements in Deep Learning,NLP and Big Data 
-    <br>- 👯 I’m looking to collaborate with other data enthusiasts
-    <br>- 🥅 Goals: Contribute to Open Source Data Science projects
+    <br>- 🌱 I’m working as Senior Data Analyst (GTM Strategy & RevOps) at Pluralsight
     <br>- ⚡ Fun fact: I love travelling,listening to music and nature photography
     </p>
 </div>
